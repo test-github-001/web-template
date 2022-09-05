@@ -7,6 +7,13 @@
 
 @font-face {
     font-family: Roboto;
+    src: url("../src/fonts/Roboto-Bold.ttf") format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Roboto;
     src: url("../src/fonts/Roboto-Regular.ttf") format('truetype');
     font-style: normal;
     font-weight: normal;
